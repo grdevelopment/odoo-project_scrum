@@ -1,2 +1,3 @@
-# project_scrum
-To install BeautifulSoup use commando line: apt-get install python-bs4
+# Odoo Project Scrum
+
+An Odoo plugin to augment the projects modules, adding provisions for Kanban and Scrum style project management.

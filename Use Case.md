@@ -1,19 +1,13 @@
-Use Case 1 
-Rubrik: Skapa backlog och sprints
-Sekvensbeskrivning: Alice som är Scrum Master vill starta ett projekt. Hon börjar med att skriva en backlog med alla uppgifter som ska göras. Uppgifterna som hon skriver i backlogen delas sedan upp i flera olika sprints. 
+Use Case 1: Creating Backlog and Sprint
+Sequence Description: Alice is ScrumMaster want to start a project. She begins to write a backlog of all features to be developed. The information she writes in backlog is then divided into several sprints.
 
-Use Case 2 
-Rubrik: User stories skapas och tasks läggs till i varje sprint
-Sekvensbeskrivning: User stories skapas där olika tasks läggs in. Om en task in passar in i närvarande sprint så ska man kunna flytta den till en annan sprint som man anser vara mer lämplig för just denna task. 
+Use Case 2: User stories created and tasks added to each sprint
+Sequence Description: User stories created where various tasks are entered. A backlog item may not fit in the current sprint, so you should be able to move it to another sprint more appropriate for this particular task.
 
-Use Case 3
-Rubrik: Planera arbetsflödet och dela arbeten till varje person
-Sekvensbeskrivning: Alice och de andra grupp-medlemmarna går igenom backlogen och varje grupp-medlem väljer den uppgift som han/hon tycker passar sig mest. Alice som är Scrum Master får vara med och hjälpa till om hon anser att det inte riktigt fungerar på det sättet som grupp-medlemmarna väljer på. 
+Use Case 3: Planning workflow and share the work of each person
+Sequence Description: Alice and the other group members go through the backlog and each group member selects the task he / she thinks fit in the most. Alice is ScrumMaster and may be involved in altering task / backlog relationships with the group.
 
-Use Case 4
-Rubrik: 
-Sekvensbeskrivning: För att Alice ska kunna ändra statusen på sprinten, trycker hon på sprinten och sen på "edit"-knappen där hon sedan kan välja den nya statusen till sprinten.
+Use Case 4:
+Sequence description: Alice will be able to change the status of the sprint, she presses on the pin and then on the "edit" button, which she can then select the new status for the sprint.
 
-U1 gör backlog och skapa antal sprint.
-U2 gör user stories och lägga task till varje sprint.
-U3 planera arbetsflödet och dela arbeten till varje person.
+U1 makes a backlog and creates a number of sprints. U2 makes the user stories and adds a box to each sprint. U3 plans the workflow and shares work with each person.
